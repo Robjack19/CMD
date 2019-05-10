@@ -1,0 +1,12 @@
+0=ok	
+1=ok/cancel 
+2=abort,retry,calcel 
+3=yes,no,cancel
+4=yes,no
+
++
+icon
+16=critical
+32=warning
+48=warning message
+64=info

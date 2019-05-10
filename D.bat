@@ -1,0 +1,1 @@
+if EXIST "Troll.txt" del "Troll.txt"

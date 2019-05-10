@@ -1,0 +1,6 @@
+x=MsgBox("...ERROR",0+16,"ERROR")
+x=MsgBox("...",0+64,"ERROR")
+x=MsgBox("...",0+64,"ERROR")
+x=MsgBox("...",0+64,"ERROR")
+x=MsgBox("...",0+64,"ERROR")
+x=MsgBox("...",0+64,"ERROR")
